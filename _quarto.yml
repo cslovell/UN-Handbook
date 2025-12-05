@@ -99,3 +99,7 @@ bibliography:
     - bibliography/world-cereal.bib
 
 csl: ieee.csl
+
+filters:
+  - cslovell/reproducible
+  - handbook/reproducible-local
